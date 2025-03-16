@@ -1,0 +1,257 @@
+* {
+    margin:5px;
+   padding: 5px;
+  background-color: honeydew;
+}
+h1 {
+    color:#3e4152;
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+}
+a {
+    text-decoration: none;
+    color:#3e4152;
+}
+p {
+    color: #3e4152;
+    display: flex;
+    justify-content: center;
+}
+
+
+.all_cheracter {
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: space-evenly; 
+    
+}
+
+.nav_iron {
+    text-decoration: none;
+    margin-left:0% ;
+    color:#3e4152;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    margin: 0% ;
+    max-height: 5em;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.iron_man {
+    
+    width: 150px;
+}
+
+.hulk{
+    width: 150px;
+}
+.nav_hulk{
+    text-decoration: none;
+    margin-left:0% ;
+    color:#3e4152;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    margin: 0% ;
+    max-height: 5em;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-evenly;
+}
+.captain {
+    width: 150px;
+}
+.nav_captain {
+    text-decoration: none;
+    margin-left:0% ;
+    color:#3e4152;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    margin: 0% ;
+    max-height: 5em;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-evenly;
+}
+.spider {
+    width: 150PX;
+    height: 275PX;
+}
+.nav_spider { text-decoration: none;
+    margin-left:0% ;
+    color:#3e4152;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    margin: 0% ;
+    max-height: 5em;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.strange {
+    width: 150PX;
+}
+.nav_streng {
+    text-decoration: none;
+    margin-left:0% ;
+    color:#3e4152;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    margin: 0% ;
+    max-height: 5em;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.panther {
+    width: 150;
+    height: 275px;
+}
+.nav_panther {
+    text-decoration: none;
+    margin-left:0% ;
+    color:#3e4152;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    margin: 0% ;
+    max-height: 5em;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-evenly;
+}
+.rocket {
+    width: 150px;
+    height: 275px;
+}
+.nav_rocket {
+    text-decoration: none;
+    margin-left:0% ;
+    color:#3e4152;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    margin: 0% ;
+    max-height: 5em;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-evenly;
+}
+.groot {
+    width: 150PX;
+    height: 275PX;
+}
+.nav_groot {
+    text-decoration: none;
+    margin-left:0% ;
+    color:#3e4152;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    margin: 0% ;
+    max-height: 5em;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-evenly;
+}
+.pool {
+    width: 150PX;
+    height: 275PX;
+}
+.nav_pool {
+    text-decoration: none;
+    margin-left:0% ;
+    color:#3e4152;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    margin: 0% ;
+    max-height: 5em;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-evenly;
+}
+.wanda {
+    width: 150px;
+    height: 275px;
+}
+.nav_wanda {
+    text-decoration: none;
+    margin-left:0% ;
+    color:#3e4152;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    margin: 0% ;
+    max-height: 5em;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-evenly;
+}
+.wolverine {
+    width: 150PX;
+    height: 275PX;
+}
+.nac_wolverine {
+    text-decoration: none;
+    margin-left:0% ;
+    color:#3e4152;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    margin: 0% ;
+    max-height: 5em;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-evenly;
+}
+.thor {
+    width: 150PX;
+    height: 275;
+}
+.nav_thor {
+    text-decoration: none;
+    margin-left:0% ;
+    color:#3e4152;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    margin: 0% ;
+    max-height: 5em;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-evenly;
+}
+.thanos {
+    width: 150PX;
+}
+.nav_thanos {
+    text-decoration: none;
+    margin-left:0% ;
+    color:#3e4152;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    margin: 0% ;
+    max-height: 5em;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.marvel_vid1 {
+    height:250px;
+    width: 150px;
+    display: flex;
+    margin-top: 0%;
+    
+}
+
+.video_1 {
+    text-decoration: none;
+    margin-left:0% ;
+    color:#3e4152;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    margin: 0% ;
+    max-height: 5em;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-evenly;
+}

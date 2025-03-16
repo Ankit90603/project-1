@@ -1,0 +1,70 @@
+* {
+    margin: 5px;
+    padding: 5px;
+   background-color: lavenderblush;
+}
+
+.div_photos {
+    color:#3e4152;
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    font-weight: 900;
+    
+}
+.photo_items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.gif1 {
+    width: 270px;
+}
+.gif2 {
+    width: 250px;
+}
+.gif3 {
+    width: 300px;
+}
+.gif4 {
+    width: 150px;
+}
+.gif5 {
+    width: 300px;
+}
+.gif6 {
+    width: 250px;
+}
+.gif7 {
+    width: 300px;
+}
+.gif8 {
+    width: 280px;
+}
+.gif9 {
+    width: 200px;
+}
+.gif10 {
+    width: 300px;
+}
+.gif11 {
+    width: 250px;
+}
+.gif12 {
+    width: 270px;
+}
+.gif13 {
+    width: 250px;
+}
+.gif14 {
+    width:170px ;
+}
+.gif15 {
+width: 300px;
+}
+.gif16 {
+ width: 220px;
+}
+.gif17 {
+width: 300px;
+}
